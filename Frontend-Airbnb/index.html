@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airbnb MF - Estancias</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="nav-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" alt="Logo" class="logo-nav">
+            
+            <nav class="center-menu">
+                <a href="#" class="active">Estancias</a>
+                <a href="#">Actividades</a>
+                <a href="#">Plus MF</a>
+            </nav>
+
+            <div class="user-menu">
+
+                <a href="#" id="btnPublicar" onclick="mostrarFormularioPublicar()" class="host-text" style="text-decoration: none; color: inherit;">Publica tu espacio</a>
+
+                <div class="profile-box">
+                    <span class="menu-icon">☰</span>
+                    <span class="user-icon">👤</span>
+                    <div class="user-menu-container" style="position: relative; display: inline-block;">
+    <div class="user-icon" onclick="toggleMenu()" style="cursor: pointer; border: 1px solid #ddd; padding: 5px 10px; border-radius: 20px;">
+        <i class="fa-solid fa-bars"></i>
+        <i class="fa-solid fa-circle-user"></i>
+    </div>
+
+    <div id="userDropdown" class="dropdown-content" style="display: none; position: absolute; right: 0; background: white; min-width: 150px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; z-index: 1000; margin-top: 10px;">
+        <button onclick="logout()" style="width: 100%; text-align: left; background: none; border: none; padding: 12px 16px; cursor: pointer; color: #ff385c; font-weight: bold; font-family: inherit;">
+            Cerrar Sesión
+        </button>
+    </div>
+</div>
+    <div id="userDropdown" class="dropdown-content">
+        <a href="#" onclick="logout()">Cerrar Sesión</a>
+    </div>
+</div>
+
+    <div id="userDropdown" class="dropdown-content">
+        <a href="#">Perfil</a>
+        <a href="#">Mis Reservas</a>
+        <hr>
+        <a href="#" onclick="logout()" class="logout-btn">Cerrar Sesión</a>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-bar-container">
+            <div class="search-bar">
+                <div class="search-item">
+                    <label>Destino</label>
+                    <input type="text" placeholder="¿A dónde vas?">
+                </div>
+                <div class="v-divider"></div>
+                <div class="search-item">
+                    <label>Periodo</label>
+                    <input type="text" placeholder="Tus días">
+                </div>
+                <div class="v-divider"></div>
+                <div class="search-item">
+                    <label>Huéspedes</label>
+                    <input type="text" placeholder="¿Cuántos son?">
+                </div>
+                <button class="search-btn">🔍</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="content">
+        <h2 class="main-title">Propiedades exclusivas para ti</h2>
+        <div class="properties-grid" id="propertiesGrid">
+            </div>
+    </main>
+<div id="modalPublicar" class="modal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="cerrarModal()">&times;</span>
+        <h2>Publica tu espacio</h2>
+        <p>Completa los detalles para que otros puedan ver tu propiedad.</p>
+        
+        <form id="formPublicar">
+            <div class="form-group">
+                <label>Nombre del alojamiento</label>
+                <input type="text" id="pubTitulo" placeholder="Ej: Apartamento moderno en Piantini" required>
+            </div>
+            <div class="form-group">
+                <label>Ubicación</label>
+                <input type="text" id="pubUbicacion" placeholder="Ej: Santo Domingo, RD" required>
+            </div>
+            <div class="form-group">
+                <label>Precio por noche (USD)</label>
+                <input type="number" id="pubPrecio" placeholder="150" required>
+            </div>
+            <div class="form-group">
+                <label>Descripción</label>
+                <textarea id="pubDescripcion" rows="3" placeholder="Cuéntanos un poco sobre el lugar..." required></textarea>
+            </div>
+            <div class="form-group">
+    <label>URL de la imagen</label>
+    <input type="text" id="pubImagen" placeholder="Pega el enlace de una foto (Unsplash, etc.)" required>
+</div>
+            <button type="submit" class="btn-primary-airbnb">Publicar ahora</button>
+        </form>
+    </div>
+</div>
+
+
+    <script src="js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,326 @@
+:root {
+    --airbnb-red: #FF385C;
+    --dark-text: #222222;
+    --light-gray: #717171;
+    --white: #ffffff;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+
+.split-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Lado Izquierdo con Imagen */
+.image-section {
+    flex: 1.2;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    padding: 60px;
+    color: white;
+}
+/* 2. Clase para el Fondo de Registro (la villa con piscina) */
+.fondo-registro {
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), 
+                      url('../assets/fondo-registro.jpg');
+}
+
+/* 3. Clase para el Fondo de Login (la NUEVA imagen) */
+.fondo-login {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), 
+                      url('../assets/fondo-login.jpg'); /* ASEGÚRATE DE QUE EL NOMBRE COINCIDA */
+}
+
+/*.content-overlay h1 { font-size: 3.5rem; margin-bottom: 10px; }
+.content-overlay p { font-size: 1.2rem; max-width: 80%; } */
+/* 1. Cambiar la fuente de todo el cuerpo */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Poppins', sans-serif; /* Usamos Poppins */
+}
+
+/* 2. Estilo para el título grande */
+.content-overlay h1 { 
+    font-size: 3.8rem; 
+    font-weight: 800; /* Más gruesa */
+    line-height: 1.1;
+    margin-bottom: 15px;
+    letter-spacing: -1px; /* Letras un poco más juntas, estilo moderno */
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.3); /* Sombra suave para que resalte más */
+}
+
+/* 3. Estilo para el párrafo de abajo */
+.content-overlay p { 
+    font-size: 1.3rem; 
+    font-weight: 400;
+    max-width: 85%;
+    opacity: 0.9;
+}
+
+/* Lado Derecho Formulario */
+.form-section {
+    flex: 0.8;
+    background: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.form-container { width: 100%; max-width: 400px; }
+
+.logo { width: 100px; margin-bottom: 30px; }
+
+h2 { color: var(--dark-text); font-size: 1.8rem; margin-bottom: 30px; }
+
+.input-field { margin-bottom: 20px; }
+.input-field label { display: block; margin-bottom: 8px; font-weight: 600; font-size: 14px; }
+.input-field input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #B0B0B0;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.input-field input:focus {
+    border-color: var(--dark-text);
+    outline: none;
+}
+
+.btn-airbnb {
+    width: 100%;
+    padding: 14px;
+    background: var(--airbnb-red);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.1s ease;
+}
+
+.btn-airbnb:active { transform: scale(0.98); }
+
+.switch-form { margin-top: 20px; color: var(--light-gray); font-size: 14px; }
+.switch-form a { color: var(--dark-text); font-weight: 600; }
+
+/* Header y Nav */
+.main-header {
+    border-bottom: 1px solid #ebebeb;
+    padding: 20px 80px;
+    background: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.logo-nav { height: 32px; }
+
+.center-menu a {
+    text-decoration: none;
+    color: #222;
+    margin: 0 15px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.center-menu a.active {
+    border-bottom: 2px solid #222;
+}
+
+/* Search Bar */
+.search-bar-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 40px;
+    padding: 8px 10px 8px 30px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    transition: box-shadow 0.2s;
+}
+
+.search-bar:hover { box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+
+.search-item { display: flex; flex-direction: column; padding: 0 20px; }
+.search-item label { font-size: 12px; font-weight: 800; }
+.search-item input { border: none; outline: none; font-size: 14px; color: #717171; }
+
+.search-btn {
+    background: var(--airbnb-red);
+    color: white;
+    border: none;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Grid de Propiedades */
+.content { padding: 40px 80px; max-width: 1400px; margin: 0 auto; }
+
+.properties-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 20px;
+    
+}
+
+.property-card { cursor: pointer; position: relative; }
+
+.property-card img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 12px;
+}
+
+.heart-icon {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: white;
+    font-size: 24px;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+/* Esto es lo que falta para diseñar el menú de usuario */
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Espacio entre el texto y los iconos */
+}
+
+.profile-icons {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 5px 12px;
+    border: 1px solid #DDDDDD; /* El borde gris del cuadro */
+    border-radius: 25px; /* Lo hace redondeado */
+    cursor: pointer;
+    transition: box-shadow 0.2s;
+}
+
+.profile-icons:hover {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.18); /* Efecto al pasar el mouse */
+}
+
+/* Estilos para el Modal */
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 2000; 
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: white;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 12px;
+    width: 400px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.close-btn {
+    position: absolute;
+    right: 20px; top: 15px;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.form-group { margin-bottom: 15px; }
+.form-group label { display: block; font-weight: 500; margin-bottom: 5px; }
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.btn-primary-airbnb {
+    width: 100%;
+    padding: 12px;
+    background-color: #FF385C;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.user-menu-container {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none; /* Escondido por defecto */
+    position: absolute;
+    right: 0;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1000;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+/* Clase para mostrar el menú con JS */
+.show {
+    display: block;
+}
+
+.logout-btn {
+    color: #ff385c !important; /* Color característico de Airbnb */
+    font-weight: bold;
+}
+.card-info h3 { font-size: 16px; margin: 0; color: #222; }
+.card-info p { margin: 2px 0; color: #717171; font-size: 15px; }
+.card-info .price { color: #222; margin-top: 6px; }

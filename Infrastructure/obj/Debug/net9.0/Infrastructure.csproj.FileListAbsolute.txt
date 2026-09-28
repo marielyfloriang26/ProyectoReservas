@@ -1,0 +1,38 @@
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\ProyectoReservas\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\ProyectoReservas\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

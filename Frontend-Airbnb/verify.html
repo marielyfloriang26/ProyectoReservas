@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Verificar Cuenta - Airbnb MF</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #F5F5DC; /* Warm Beige */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .message-box {
+            background: white;
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+            max-width: 400px;
+            width: 90%;
+        }
+        .icon {
+            font-size: 50px;
+            color: #1A1A1A; /* Black Metal */
+            margin-bottom: 20px;
+        }
+        h1 { color: #1A1A1A; margin-bottom: 10px; font-size: 24px; }
+        p { color: #717171; line-height: 1.5; margin-bottom: 25px; }
+        
+        .input-code {
+            width: 100%;
+            padding: 15px;
+            font-size: 24px;
+            text-align: center;
+            letter-spacing: 5px;
+            border: 2px solid #EFDECD; /* Almond */
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+
+        .btn-verify {
+            display: block;
+            width: 100%;
+            background: #1A1A1A; /* Black Metal */
+            color: #EFDECD; /* Almond */
+            padding: 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .btn-verify:hover { background: #333; }
+    </style>
+</head>
+<body>
+    <div class="message-box">
+        <div class="icon">✉</div>
+        <h1>Verifica tu cuenta</h1>
+        <p>Ingresa el código de seguridad que enviamos a tu correo electrónico para comenzar.</p>
+        
+        <form id="verifyForm">
+            <input type="text" id="codigo" class="input-code" placeholder="000000" maxlength="6" required>
+            <button type="submit" class="btn-verify">Confirmar Cuenta</button>
+        </form>
+        
+        <p style="margin-top: 20px; font-size: 13px;">¿No recibiste el código? Revisa Mailpit.</p>
+    </div>
+
+    <script src="js/verify.js"></script>
+</body>
+</html>

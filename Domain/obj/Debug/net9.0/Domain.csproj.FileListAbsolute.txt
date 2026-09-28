@@ -1,0 +1,22 @@
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.dll
+C:\ProyectoReservas\Domain\bin\Debug\net9.0\Domain.pdb
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.dll
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\Domain.pdb
+C:\ProyectoReservas\Domain\obj\Debug\net9.0\ref\Domain.dll

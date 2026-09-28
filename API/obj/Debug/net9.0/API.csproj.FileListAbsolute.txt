@@ -1,0 +1,318 @@
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\appsettings.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.exe
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.deps.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.runtimeconfig.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\API.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Application.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Application.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\bin\Debug\net9.0\Domain.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.Up2Date
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\refint\API.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\API.genruntimeconfig.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\API\obj\Debug\net9.0\ref\API.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\appsettings.Development.json
+C:\ProyectoReservas\API\bin\Debug\net9.0\appsettings.json
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.exe
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.deps.json
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.runtimeconfig.json
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\API.pdb
+C:\ProyectoReservas\API\bin\Debug\net9.0\Azure.Core.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Azure.Identity.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Humanizer.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.ClientModel.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.CodeDom.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Application.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Domain.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Infrastructure.dll
+C:\ProyectoReservas\API\bin\Debug\net9.0\Application.pdb
+C:\ProyectoReservas\API\bin\Debug\net9.0\Infrastructure.pdb
+C:\ProyectoReservas\API\bin\Debug\net9.0\Domain.pdb
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
+C:\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.json
+C:\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.development.json
+C:\ProyectoReservas\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.csproj.Up2Date
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.dll
+C:\ProyectoReservas\API\obj\Debug\net9.0\refint\API.dll
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.pdb
+C:\ProyectoReservas\API\obj\Debug\net9.0\API.genruntimeconfig.cache
+C:\ProyectoReservas\API\obj\Debug\net9.0\ref\API.dll

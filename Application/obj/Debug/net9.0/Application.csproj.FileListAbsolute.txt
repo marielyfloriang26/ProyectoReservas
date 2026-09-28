@@ -1,0 +1,30 @@
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\bin\Debug\net9.0\Application.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\bin\Debug\net9.0\Domain.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\bin\Debug\net9.0\Domain.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\Mariely Florian\Desktop\ProyectoReservas\Application\obj\Debug\net9.0\ref\Application.dll
+C:\ProyectoReservas\Application\bin\Debug\net9.0\Application.deps.json
+C:\ProyectoReservas\Application\bin\Debug\net9.0\Application.dll
+C:\ProyectoReservas\Application\bin\Debug\net9.0\Application.pdb
+C:\ProyectoReservas\Application\bin\Debug\net9.0\Domain.dll
+C:\ProyectoReservas\Application\bin\Debug\net9.0\Domain.pdb
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.dll
+C:\ProyectoReservas\Application\obj\Debug\net9.0\refint\Application.dll
+C:\ProyectoReservas\Application\obj\Debug\net9.0\Application.pdb
+C:\ProyectoReservas\Application\obj\Debug\net9.0\ref\Application.dll
